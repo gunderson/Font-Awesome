@@ -1831,18 +1831,22 @@
   content: "\f23e";
 }
 .fa-battery-4:before,
+.fa-battery-100:before,
 .fa-battery-full:before {
   content: "\f240";
 }
 .fa-battery-3:before,
+.fa-battery-75:before,
 .fa-battery-three-quarters:before {
   content: "\f241";
 }
 .fa-battery-2:before,
+.fa-battery-50:before,
 .fa-battery-half:before {
   content: "\f242";
 }
 .fa-battery-1:before,
+.fa-battery-25:before,
 .fa-battery-quarter:before {
   content: "\f243";
 }
